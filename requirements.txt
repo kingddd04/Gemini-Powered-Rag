@@ -3,5 +3,5 @@ langchain-google-genai
 langchain-qdrant
 qdrant-client
 langchain-community
-pypdf
+pymupdf
 python-dotenv
